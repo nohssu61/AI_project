@@ -1,4 +1,4 @@
-##nohssu61### Dockerfile
+##AI project### Dockerfile
 FROM ubuntu:18.04
 MAINTAINER PJA <barkjungae@kookmin.ackr>
 
